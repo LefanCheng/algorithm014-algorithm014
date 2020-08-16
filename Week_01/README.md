@@ -1,1 +1,12 @@
-学习笔记
+|Name                                                                   |Tags                          |URL                                                                                                    |遍数 |上次做题时间      |
+|-----------------------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------|---|------------|
+|LintCode 72. Construct Binary Tree from Inorder and Postorder Traversal|Binary Tree, Recursion        |https://www.lintcode.com/problem/construct-binary-tree-from-inorder-and-postorder-traversal/description|2  |Aug 12, 2020|
+|70. Climbing Stairs                                                    |Dynamic Programming, Fibonacci|https://leetcode.com/problems/climbing-stairs/                                                         |3  |Aug 12, 2020|
+|66. Plus One                                                           |Array                         |https://leetcode.com/problems/plus-one/                                                                |1  |Aug 12, 2020|
+|1. Two Sum                                                             |Array, Hash Table             |https://leetcode.com/problems/two-sum/                                                                 |3  |Aug 12, 2020|
+|24. Swap Nodes in Pairs                                                |Linked List, Recursion        |https://leetcode.com/problems/swap-nodes-in-pairs/                                                     |1  |Aug 12, 2020|
+|21. Merge Two Sorted Lists                                             |Linked List                   |https://leetcode.com/problems/merge-two-sorted-lists/                                                  |1  |Aug 13, 2020|
+|283. Move Zeroes                                                       |Array, Two Pointers           |https://leetcode.com/problems/move-zeroes/submissions/                                                 |1  |Aug 15, 2020|
+|11. Container With Most Water                                          |Array, Two Pointers           |https://leetcode.com/problems/container-with-most-water/                                               |1  |Aug 15, 2020|
+|88. Merge Sorted Array                                                 |Array, Two Pointers           |https://leetcode.com/problems/merge-sorted-array/                                                      |1  |Aug 16, 2020|
+|20. Valid Parentheses                                                  |Stack, String                 |https://leetcode.com/problems/valid-parentheses/                                                       |1  |Aug 16, 2020|
