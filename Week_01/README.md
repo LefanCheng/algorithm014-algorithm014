@@ -271,7 +271,6 @@ ensureCapacity首先检查当前数组长度，如果长度够什么都不做，
 
 ```python
 # 链表简介：链表是一个由节点构成的列表，属于线性数据结构，在Python中属于自定义结构
-# Source: 九章Python基础
 # 定义链表节点类
 class ListNode:
 	def __init__(self, val):
